@@ -1,0 +1,10 @@
+  esta imprimiendo 0 cuadro es = 0
+  esta imprimiendo 1 cuadro es = 1
+  esta imprimiendo 2 cuadro es = 4
+  esta imprimiendo 3 cuadro es = 9
+  esta imprimiendo 4 cuadro es = 16
+  esta imprimiendo 5 cuadro es = 25
+  esta imprimiendo 6 cuadro es = 36
+  esta imprimiendo 7 cuadro es = 49
+  esta imprimiendo 8 cuadro es = 64
+  esta imprimiendo 9 cuadro es = 81

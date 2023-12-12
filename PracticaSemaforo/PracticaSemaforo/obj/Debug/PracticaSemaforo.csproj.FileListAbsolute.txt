@@ -1,0 +1,11 @@
+C:\Users\blakd\OneDrive\Escritorio\4to semestre\Topicos\PracticaSemaforo\PracticaSemaforo\bin\Debug\PracticaSemaforo.exe.config
+C:\Users\blakd\OneDrive\Escritorio\4to semestre\Topicos\PracticaSemaforo\PracticaSemaforo\bin\Debug\PracticaSemaforo.exe
+C:\Users\blakd\OneDrive\Escritorio\4to semestre\Topicos\PracticaSemaforo\PracticaSemaforo\bin\Debug\PracticaSemaforo.pdb
+C:\Users\blakd\OneDrive\Escritorio\4to semestre\Topicos\PracticaSemaforo\PracticaSemaforo\obj\Debug\PracticaSemaforo.csproj.AssemblyReference.cache
+C:\Users\blakd\OneDrive\Escritorio\4to semestre\Topicos\PracticaSemaforo\PracticaSemaforo\obj\Debug\PracticaSemaforo.csproj.SuggestedBindingRedirects.cache
+C:\Users\blakd\OneDrive\Escritorio\4to semestre\Topicos\PracticaSemaforo\PracticaSemaforo\obj\Debug\PracticaSemaforo.Form1.resources
+C:\Users\blakd\OneDrive\Escritorio\4to semestre\Topicos\PracticaSemaforo\PracticaSemaforo\obj\Debug\PracticaSemaforo.Properties.Resources.resources
+C:\Users\blakd\OneDrive\Escritorio\4to semestre\Topicos\PracticaSemaforo\PracticaSemaforo\obj\Debug\PracticaSemaforo.csproj.GenerateResource.cache
+C:\Users\blakd\OneDrive\Escritorio\4to semestre\Topicos\PracticaSemaforo\PracticaSemaforo\obj\Debug\PracticaSemaforo.csproj.CoreCompileInputs.cache
+C:\Users\blakd\OneDrive\Escritorio\4to semestre\Topicos\PracticaSemaforo\PracticaSemaforo\obj\Debug\PracticaSemaforo.exe
+C:\Users\blakd\OneDrive\Escritorio\4to semestre\Topicos\PracticaSemaforo\PracticaSemaforo\obj\Debug\PracticaSemaforo.pdb

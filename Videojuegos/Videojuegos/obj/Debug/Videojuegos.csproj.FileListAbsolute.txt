@@ -1,0 +1,11 @@
+C:\Users\blakd\OneDrive\Escritorio\4to semestre\Topicos\Videojuegos\Videojuegos\bin\Debug\Videojuegos.exe.config
+C:\Users\blakd\OneDrive\Escritorio\4to semestre\Topicos\Videojuegos\Videojuegos\bin\Debug\Videojuegos.exe
+C:\Users\blakd\OneDrive\Escritorio\4to semestre\Topicos\Videojuegos\Videojuegos\bin\Debug\Videojuegos.pdb
+C:\Users\blakd\OneDrive\Escritorio\4to semestre\Topicos\Videojuegos\Videojuegos\obj\Debug\Videojuegos.csproj.AssemblyReference.cache
+C:\Users\blakd\OneDrive\Escritorio\4to semestre\Topicos\Videojuegos\Videojuegos\obj\Debug\Videojuegos.csproj.SuggestedBindingRedirects.cache
+C:\Users\blakd\OneDrive\Escritorio\4to semestre\Topicos\Videojuegos\Videojuegos\obj\Debug\Videojuegos.Form1.resources
+C:\Users\blakd\OneDrive\Escritorio\4to semestre\Topicos\Videojuegos\Videojuegos\obj\Debug\Videojuegos.Properties.Resources.resources
+C:\Users\blakd\OneDrive\Escritorio\4to semestre\Topicos\Videojuegos\Videojuegos\obj\Debug\Videojuegos.csproj.GenerateResource.cache
+C:\Users\blakd\OneDrive\Escritorio\4to semestre\Topicos\Videojuegos\Videojuegos\obj\Debug\Videojuegos.csproj.CoreCompileInputs.cache
+C:\Users\blakd\OneDrive\Escritorio\4to semestre\Topicos\Videojuegos\Videojuegos\obj\Debug\Videojuegos.exe
+C:\Users\blakd\OneDrive\Escritorio\4to semestre\Topicos\Videojuegos\Videojuegos\obj\Debug\Videojuegos.pdb

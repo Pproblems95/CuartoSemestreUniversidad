@@ -1,0 +1,11 @@
+C:\Users\blakd\OneDrive\Escritorio\4to semestre\Topicos\PracticaPaint\PracticaPaint\bin\Debug\PracticaPaint.exe.config
+C:\Users\blakd\OneDrive\Escritorio\4to semestre\Topicos\PracticaPaint\PracticaPaint\bin\Debug\PracticaPaint.exe
+C:\Users\blakd\OneDrive\Escritorio\4to semestre\Topicos\PracticaPaint\PracticaPaint\bin\Debug\PracticaPaint.pdb
+C:\Users\blakd\OneDrive\Escritorio\4to semestre\Topicos\PracticaPaint\PracticaPaint\obj\Debug\PracticaPaint.csproj.AssemblyReference.cache
+C:\Users\blakd\OneDrive\Escritorio\4to semestre\Topicos\PracticaPaint\PracticaPaint\obj\Debug\PracticaPaint.csproj.SuggestedBindingRedirects.cache
+C:\Users\blakd\OneDrive\Escritorio\4to semestre\Topicos\PracticaPaint\PracticaPaint\obj\Debug\PracticaPaint.Form1.resources
+C:\Users\blakd\OneDrive\Escritorio\4to semestre\Topicos\PracticaPaint\PracticaPaint\obj\Debug\PracticaPaint.Properties.Resources.resources
+C:\Users\blakd\OneDrive\Escritorio\4to semestre\Topicos\PracticaPaint\PracticaPaint\obj\Debug\PracticaPaint.csproj.GenerateResource.cache
+C:\Users\blakd\OneDrive\Escritorio\4to semestre\Topicos\PracticaPaint\PracticaPaint\obj\Debug\PracticaPaint.csproj.CoreCompileInputs.cache
+C:\Users\blakd\OneDrive\Escritorio\4to semestre\Topicos\PracticaPaint\PracticaPaint\obj\Debug\PracticaPaint.exe
+C:\Users\blakd\OneDrive\Escritorio\4to semestre\Topicos\PracticaPaint\PracticaPaint\obj\Debug\PracticaPaint.pdb
